@@ -1,0 +1,5 @@
+{
+  "name": "TeacherTaskMaster",
+  "description": "A comprehensive task management system for teachers to track student progress across multiple classes using a color-coded grading system.",
+  "requestFramePermissions": []
+}
